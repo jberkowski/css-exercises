@@ -1,0 +1,21 @@
+/* style.css */
+
+.oddclass {
+    background-color: #e76a7d;
+    font-family: 'Verdana', "DejaVu Sans", sans-serif;
+}
+
+#number2 {
+    color: #0505dd;
+    font-size: 36px;
+}
+
+.number3 {
+    font-size: 24px;
+}
+
+#number4 {
+    background-color: #89ee89;
+    font-size: 24px;
+    font-weight: bold;
+}
